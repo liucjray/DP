@@ -1,5 +1,7 @@
 <?php
 
+namespace CreationalPatterns\FactoryMethod;
+
 abstract class Factory
 {
     public function create(string $owner): Product

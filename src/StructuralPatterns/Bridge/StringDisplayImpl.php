@@ -1,5 +1,7 @@
 <?php
 
+namespace StructuralPatterns\Bridge;
+
 class StringDisplayImpl implements DisplayImpl
 {
     private $string;

@@ -1,5 +1,7 @@
 <?php
 
+namespace CreationalPatterns\TemplateMethod;
+
 class CharDisplay extends AbstractDisplay
 {
     private $char;

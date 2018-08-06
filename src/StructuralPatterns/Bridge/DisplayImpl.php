@@ -1,5 +1,7 @@
 <?php
 
+namespace StructuralPatterns\Bridge;
+
 interface DisplayImpl
 {
     public function rawOpen();

@@ -1,0 +1,9 @@
+{
+    "name": "liucjray/factory_method",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

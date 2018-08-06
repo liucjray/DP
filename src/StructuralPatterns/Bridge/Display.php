@@ -1,5 +1,7 @@
 <?php
 
+namespace StructuralPatterns\Bridge;
+
 class Display
 {
     private $impl;

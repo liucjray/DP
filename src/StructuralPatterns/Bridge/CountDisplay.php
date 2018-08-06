@@ -1,5 +1,7 @@
 <?php
 
+namespace StructuralPatterns\Bridge;
+
 class CountDisplay extends Display
 {
     public function __construct(DisplayImpl $impl)

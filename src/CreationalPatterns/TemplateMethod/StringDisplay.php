@@ -1,5 +1,7 @@
 <?php
 
+namespace CreationalPatterns\TemplateMethod;
+
 class StringDisplay extends AbstractDisplay
 {
     private $string;

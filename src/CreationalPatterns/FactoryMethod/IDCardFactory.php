@@ -1,5 +1,7 @@
 <?php
 
+namespace CreationalPatterns\FactoryMethod;
+
 class IDCardFactory extends Factory
 {
     private $owners = [];

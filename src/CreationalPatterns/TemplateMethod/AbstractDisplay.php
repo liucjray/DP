@@ -1,5 +1,7 @@
 <?php
 
+namespace CreationalPatterns\TemplateMethod;
+
 abstract class AbstractDisplay
 {
     abstract public function open();

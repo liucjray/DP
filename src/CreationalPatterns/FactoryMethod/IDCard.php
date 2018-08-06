@@ -1,5 +1,7 @@
 <?php
 
+namespace CreationalPatterns\FactoryMethod;
+
 class IDCard extends Product
 {
     private $owner;
